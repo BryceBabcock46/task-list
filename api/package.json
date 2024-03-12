@@ -7,7 +7,6 @@
     "start": "node-index",
     "dev": "DEVELOPMENT=true nodemon index"
   },
-  "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {
